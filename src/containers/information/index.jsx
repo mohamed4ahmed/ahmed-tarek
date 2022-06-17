@@ -74,7 +74,7 @@ const Information = () => {
                 <a
                   rel="noopener noreferrer"
                   target="__blank"
-                  href="/resume.pdf"
+                  href="/logo192.png"
                 >
                   <div className="icon">
                     <img
@@ -142,7 +142,7 @@ const Information = () => {
                 <a
                   rel="noopener noreferrer"
                   target="__blank"
-                  href="https://www.facebook.com/profile.php?id=elenany1"
+                  href="https://www.facebook.com/elenany1"
                   aria-label="Facebook"
                 >
                   <div className="icon">
@@ -152,24 +152,6 @@ const Information = () => {
                     />
                   </div>
                   <p>Facebook</p>
-                  <div className=""></div>
-                </a>
-              </div>
-
-              <div className="social">
-                <a
-                  rel="noopener noreferrer"
-                  target="__blank"
-                  href="https://www.facebook.com/elenany1"
-                  aria-label="Facebook"
-                >
-                  <div className="icon">
-                    <img
-                      src="https://img.icons8.com/fluency/48/000000/facebook-new.png"
-                      alt="facebook2"
-                    />
-                  </div>
-                  <p>Facebook2</p>
                   <div className=""></div>
                 </a>
               </div>
@@ -188,60 +170,6 @@ const Information = () => {
                     />
                   </div>
                   <p>Messenger</p>
-                  <div className=""></div>
-                </a>
-              </div>
-
-              <div className="social">
-                <a
-                  rel="noopener noreferrer"
-                  target="__blank"
-                  href="https://www.messenger.com/t/100000174894931/?messaging_source%3Apages%message_shortlink"
-                  aria-label="Messenger"
-                >
-                  <div className="icon">
-                    <img
-                      src="https://img.icons8.com/fluency/50/000000/facebook-messenger--v2.png"
-                      alt="messenger2"
-                    />
-                  </div>
-                  <p>Messenger2</p>
-                  <div className=""></div>
-                </a>
-              </div>
-
-              <div className="social">
-                <a
-                  rel="noopener noreferrer"
-                  target="__blank"
-                  href="https://www.facebook.com/messages/t/100000174894931"
-                  aria-label="Messenger"
-                >
-                  <div className="icon">
-                    <img
-                      src="https://img.icons8.com/fluency/50/000000/facebook-messenger--v2.png"
-                      alt="messenger3"
-                    />
-                  </div>
-                  <p>Messenger3</p>
-                  <div className=""></div>
-                </a>
-              </div>
-
-              <div className="social">
-                <a
-                  rel="noopener noreferrer"
-                  target="__blank"
-                  href="https://www.facebook.com/messages/t/elenany1"
-                  aria-label="Messenger"
-                >
-                  <div className="icon">
-                    <img
-                      src="https://img.icons8.com/fluency/50/000000/facebook-messenger--v2.png"
-                      alt="messenger4"
-                    />
-                  </div>
-                  <p>Messenger4</p>
                   <div className=""></div>
                 </a>
               </div>
@@ -307,19 +235,6 @@ const Information = () => {
                     />
                   </div>
                   <p>WhatsApp</p>
-                  <div className=""></div>
-                </a>
-              </div>
-
-              <div className="social">
-                <a href="whatsapp://send?text=welcome&phone=+00966530171952">
-                  <div className="icon">
-                    <img
-                      src="https://img.icons8.com/clouds/100/000000/whatsapp.png"
-                      alt="whatsapp"
-                    />
-                  </div>
-                  <p>WhatsApp 2</p>
                   <div className=""></div>
                 </a>
               </div>
